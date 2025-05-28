@@ -10,7 +10,7 @@
     (DSA) in Python 🐍
 </h1>
 <h3 align="center">
-A collection of Data Structures and Algorithms (DSA) problems from <a href="https://projecteuler.net/archives" target="_blank"rel="noopener noreferrer">https://projecteuler.net/archives</a> and solutions by <a href="https://github/pjnalls" target="_blank"rel="noopener noreferrer">@pjnalls</a>.
+A collection of Data Structures and Algorithms (DSA) problems from Project Euler.net <a href="https://projecteuler.net/archives" target="_blank"rel="noopener noreferrer">https://projecteuler.net/archives</a> and solutions implemented by <a href="https://github/pjnalls" target="_blank"rel="noopener noreferrer">@pjnalls</a>.
 <hr>
 </h3>
 ## Prerequisite
